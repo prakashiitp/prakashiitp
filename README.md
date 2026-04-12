@@ -109,3 +109,4 @@ build real → solve problems → scale systems
 $ contact
 email   : jhaprakashkumar122@gmail.com
 github  : https://github.com/prakashiitp
+linkedin : www.linkedin.com/in/prakashiitp
