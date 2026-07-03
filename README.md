@@ -20,7 +20,7 @@
   → and other open source projects
 
 [STAGE] signal
-  → 120+ DSA problems solved
+  → 120+ DSA problems solved (and counting)
   → Google Cloud Arcade Legend
   → Hacktoberfest Super Contributor
 
