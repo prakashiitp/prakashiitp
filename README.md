@@ -1,35 +1,31 @@
-<!-- <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1OrmDrNHVDBew3onDVpQOAVK0lcBFHO45" width="100%" />
-</div> -->
+```text
+[pipeline] prakash_kumar_jha — run started
 
-```bash
-$ whoami
-Prakash Kumar Jha
+[STAGE] education
+  → IIT Patna · BS Computer Science & Data Analytics · CPI 9.49
 
-$ role
-Backend & Data Systems Developer
-CS & Data Analytics @ IIT Patna (CPI: 9.4)
+[STAGE] experience
+  → Sustainable Bharat Foundation — Data Analytics Intern
+     GHG estimation over Bihar, NetCDF pipelines
+  → ADRI — Research Intern
+     Air quality platform, CPCB datasets, ETL + REST APIs
 
-$ focus
-Scalable backend systems • Data Analytics • APIs • Optimization
+[STAGE] stack
+  → Python, Django, JavaScript, SQL, PostgreSQL, REST APIs
 
-$ experience
-Research Intern @ ADRI
-Advanced Data Analytics Intern @ Sustainable Bharat Foundation
+[STAGE] open_source
+  → OpenMed AI
+  → Avenx.js
+  → ENLIL
+  → and other open source projects
 
-$ tech
-Python • Django • Node.js • PostgreSQL • React • REST APIs
+[STAGE] signal
+  → 120+ DSA problems solved
+  → Google Cloud Arcade Legend
+  → Hacktoberfest Super Contributor
 
-$ projects
-LoadConnect • Air Quality Monitoring System • ResumeKit • Meckarup
+[pipeline] run complete
+```
 
-$ dsa
-120+ LeetCode problems solved
-
-$ achievements
-Google Cloud Arcade Legend
-Hacktoberfest Super Contributor
-
-$ contact
-github   : github.com/prakashiitp
-linkedin : linkedin.com/in/prakashiitp
+**endpoints**
+[github → prakashiitp](https://github.com/prakashiitp) · [linkedin → prakashiitp](https://linkedin.com/in/prakashiitp) · [x → @prkxh](https://x.com/prkxh)
