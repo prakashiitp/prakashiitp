@@ -28,4 +28,4 @@
 ```
 
 **endpoints**
-[github → prakashiitp](https://github.com/prakashiitp) · [linkedin → prakashiitp](https://linkedin.com/in/prakashiitp) · [x → @prkxh](https://x.com/prkxh)
+[github → prakashiitp](https://github.com/prakashiitp) · [linkedin → prakashiitp](https://linkedin.com/in/prakashiitp) ·
