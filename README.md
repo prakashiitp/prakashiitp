@@ -26,6 +26,9 @@
 
 [pipeline] run complete
 ```
+<p align="center">
+<img src="https://count.getloli.com/@:prakashiitp" alt="Profile views" />
+</p>
 
 **endpoints**
 [github → prakashiitp](https://github.com/prakashiitp) · [linkedin → prakashiitp](https://linkedin.com/in/prakashiitp) ·
